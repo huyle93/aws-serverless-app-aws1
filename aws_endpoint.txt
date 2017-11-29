@@ -1,0 +1,1 @@
+Endpoint : http://serverless-web-app-wildrydes.s3-website-us-east-1.amazonaws.com
